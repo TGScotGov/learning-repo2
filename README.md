@@ -16,3 +16,13 @@ When updating anything file and pushing up to Github always remember these FOUR 
 2. Git add . (adds everything)
 3. git commit -m "make a comment"
 4. git push, this commits the change up to Github from the local directory
+
+   # Branching
+
+   ## Description
+
+   In the new branch now.
+
+   Checkout is a new command.
+
+   
